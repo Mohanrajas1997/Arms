@@ -1,0 +1,12 @@
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\bin\Release\netstandard2.0\Chola_DataModel.deps.json
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\bin\Release\netstandard2.0\Chola_DataModel.dll
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\bin\Release\netstandard2.0\Chola_DataModel.pdb
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\bin\Release\netstandard2.0\Chola_Model.dll
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\bin\Release\netstandard2.0\Chola_Model.pdb
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.csprojAssemblyReference.cache
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.AssemblyInfoInputs.cache
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.AssemblyInfo.cs
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.csproj.CoreCompileInputs.cache
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.csproj.CopyComplete
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.dll
+D:\Murali\Chola_Api\Chola_Api\Chola_DataModel\obj\Release\netstandard2.0\Chola_DataModel.pdb

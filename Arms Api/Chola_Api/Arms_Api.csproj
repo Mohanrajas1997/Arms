@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>a546e561-4a5d-43bb-af7c-0381e63d5ac9</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Chola_DataModel\Arms_DataModel.csproj" />
+    <ProjectReference Include="..\Chola_Model\Arms_Model.csproj" />
+    <ProjectReference Include="..\Chola_Service\Arms_Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
