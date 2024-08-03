@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3oARXpm//NMPZlm2d5/PFZvgRZqsAxZ9Te+AFzWu8plF0oSu1llTVn09CYoHXA7huRnk9OjhDwWWHM30+fZ+Gw==",
+  "success": true,
+  "projectFilePath": "D:\\Murali\\KT\\ARMS\\ARMS\\Murali\\Final Source\\ambatturvault1\\Arms_Api\\Chola_Model\\Arms_Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mohan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
